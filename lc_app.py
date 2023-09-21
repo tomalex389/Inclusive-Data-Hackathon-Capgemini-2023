@@ -1,6 +1,7 @@
 # Bring in deps
 import os 
 import dotenv
+
 import streamlit as st 
 import langchain
 from langchain.llms import OpenAI
