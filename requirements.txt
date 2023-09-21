@@ -1,0 +1,6 @@
+langchain==0.0.200
+openai==0.27.8
+openapi-schema-pydantic==1.2.4
+python-dotenv==1.0.0
+streamlit==1.23.1
+
