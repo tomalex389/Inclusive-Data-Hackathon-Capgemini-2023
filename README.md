@@ -4,7 +4,7 @@ Inclusive Data Hackathon Project-Generative AI Problem #2
 # <ins>Final Presentation</ins>:
 * Finished presenting on **Thu. 6/15/23 @ 7:15 PM EST**.
 * Presentation is located right [here](https://github.com/tomalex389/Inclusive-Data-Hackathon-Capgemini-2023/blob/8da1a82aded1e5461740bdf450df01de61714132/GenerativeAI%20Problem%202.pdf).
-* Did not win the hackathon this year; that's ok and it happens. However, my *certificate of participation* is located right [here](https://github.com/yli12313/Inclusive-Data-Hackathon-2023/blob/main/certificate_of_participation/Yingquan%20Li.png)!
+* Did not win the hackathon this year; that's ok and it happens. However, my *certificate of participation* is located right [here](https://github.com/tomalex389/Inclusive-Data-Hackathon-Capgemini-2023/blob/dfce79ef45696833f5c803d814e4dc8a50ba2874/Tom%20Alex.png)!
 
 # <ins>Problem Statements</ins>:
 
@@ -15,12 +15,12 @@ Inclusive Data Hackathon Project-Generative AI Problem #2
 4. Enhancing Financial Report Search and Narrative Generation with Generative AI
 5. Fraud Detection & Prevention For Online Payments
 
-<s>**## ESG Problem Statements ##**
+**## ESG Problem Statements ##**
 1. Develop a benchmarking tool which displays board diversity, NZ commitments, social impact and emissions
 2. Predicting Agricultural or Farm-based Emissions
 3. Biodiversity Index</s>
 
-**## We Selected: Generative AI Problem Statement #2 ##**
+**## We Selected Generative AI: Problem Statement #2 ##**
 
 In the financial services industry, customers often face complex decisions related to investments, financial planning, risk management, insurance, and other financial matters. Collaborative decision-making among customers can be facilitated using generative AI techniques to help them gather insights, compare options, and make informed financial decisions.
 Develop a generative AI solution that enables collaborative decision-making among customers in the financial services industry.
