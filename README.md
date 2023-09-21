@@ -1,7 +1,7 @@
 # Inclusive-Data-Hackathon-Capgemini-2023
 Inclusive Data Hackathon Project-Generative AI Problem #2
 
-# Link to Final Deliverable, BELOW:
+# Link to Streamlit App, FINAL DELIVERABLE BELOW:
 [here](https://inclusive-data-hackathon-2023.streamlit.app/).
 
 # <ins>Final Presentation</ins>:
