@@ -3,7 +3,7 @@ Inclusive Data Hackathon Project-Generative AI Problem #2
 
 # <ins>Final Presentation</ins>:
 * Finished presenting on **Thu. 6/15/23 @ 7:15 PM EST**.
-* Presentation is located right [here](https://github.com/yli12313/Presentations-Given/blob/main/20230616_Inclusive_Data_Hackathon_2/20230615_GenerativeAI_Problem2.pdf).
+* Presentation is located right [here](https://github.com/tomalex389/Inclusive-Data-Hackathon-Capgemini-2023/blob/8da1a82aded1e5461740bdf450df01de61714132/GenerativeAI%20Problem%202.pdf).
 * Did not win the hackathon this year; that's ok and it happens. However, my *certificate of participation* is located right [here](https://github.com/yli12313/Inclusive-Data-Hackathon-2023/blob/main/certificate_of_participation/Yingquan%20Li.png)!
 
 # <ins>Problem Statements</ins>:
