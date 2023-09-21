@@ -1,8 +1,6 @@
 # Bring in deps
 import os 
 import dotenv
-#from apikey import apikey 
-
 import streamlit as st 
 import langchain
 from langchain.llms import OpenAI
