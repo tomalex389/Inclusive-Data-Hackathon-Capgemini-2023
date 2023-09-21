@@ -1,7 +1,7 @@
 # Bring in deps
 import os 
 import dotenv
-from apikey import apikey 
+#from apikey import apikey 
 
 import streamlit as st 
 import langchain
@@ -11,7 +11,10 @@ from langchain.chains import LLMChain, SequentialChain
 from langchain.memory import ConversationBufferMemory
 from langchain.utilities import WikipediaAPIWrapper 
 
-os.environ['OPENAI_API_KEY'] = apikey
+#os.environ['OPENAI_API_KEY'] = apikey
+
+# Fetch the API key from secrets.toml
+api_key = st.secrets["secrets"]["key"]
 
 # App framework
 st.title('🦜🔗 MoneyManager - A Financial Advisory ChatBot')
