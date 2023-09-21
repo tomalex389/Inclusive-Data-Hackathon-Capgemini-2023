@@ -1,6 +1,9 @@
 # Inclusive-Data-Hackathon-Capgemini-2023
 Inclusive Data Hackathon Project-Generative AI Problem #2
 
+# Link to Final Deliverable, BELOW:
+[here](https://inclusive-data-hackathon-2023.streamlit.app/).
+
 # <ins>Final Presentation</ins>:
 * Finished presenting on **Thu. 6/15/23 @ 7:15 PM EST**.
 * Presentation is located right [here](https://github.com/tomalex389/Inclusive-Data-Hackathon-Capgemini-2023/blob/8da1a82aded1e5461740bdf450df01de61714132/GenerativeAI%20Problem%202.pdf).
@@ -37,4 +40,4 @@ Consideration:
 How could bias affect this solution? Be prepared to address an alignment process which can be benchmarked and checked.
 
 # <ins>Schedule</ins>:
-![image](https://github.com/yli12313/Inclusive-Data-Hackathon-2023/assets/7104719/157a1870-3686-411d-87a5-ed49945bf354)
+![image](https://github.com/tomalex389/Inclusive-Data-Hackathon-Capgemini-2023/blob/806dba457659273bbd219283223c12e9e0324c99/inclusive%20data%20hackathon%202023%20schedule.png)
