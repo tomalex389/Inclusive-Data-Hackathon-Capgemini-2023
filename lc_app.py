@@ -43,7 +43,7 @@ financial_institutions_memory = ConversationBufferMemory(input_key='topic', memo
 
 
 # Llms
-llm = OpenAI(temperature=0.9, model="davinci-002") 
+llm = OpenAI(temperature=0.9, model="gpt-3.5-turbo-instruct") 
 topic_chain = LLMChain(llm=llm, prompt=topic_template, verbose=True, output_key='title', memory=topic_memory)
 advice_chain = LLMChain(llm=llm, prompt=advice_template, verbose=True, output_key='advice', memory=advice_memory)
 provider_chain = LLMChain(llm=llm, prompt=financial_institutions_template, verbose=True, output_key='financial_institutions', memory=financial_institutions_memory)
