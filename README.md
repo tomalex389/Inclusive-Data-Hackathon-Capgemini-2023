@@ -2,7 +2,7 @@
 Inclusive Data Hackathon Project-Generative AI Problem #2
 
 # Link to Streamlit App, FINAL DELIVERABLE BELOW:
-[here](https://inclusive-data-hackathon-2023.streamlit.app/).
+[HERE](https://inclusive-data-hackathon-2023.streamlit.app/).
 
 # <ins>Final Presentation</ins>:
 * Finished presenting on **Thu. 6/15/23 @ 7:15 PM EST**.
